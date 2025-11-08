@@ -1,9 +1,9 @@
-# SkyPose
-SkyPose:Skeleton Consistency Guided Diffusion Model for 3D Human Pose Estimation
+# SkyPose：Skeleton Consistency Guided Diffusion Model for 3D Human Pose Estimation
 
 Code cleanup in progress
 
 
+[bp-denosier.pdf](https://github.com/user-attachments/files/23432316/bp-denosier.pdf)
 
 https://github.com/user-attachments/assets/27c21378-e2b3-4d98-a7e8-210aa773d3df
 
