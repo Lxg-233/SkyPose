@@ -3,7 +3,7 @@
 Code cleanup in progress
 
 
-[bp-denosier.pdf](https://github.com/user-attachments/files/23432316/bp-denosier.pdf)
+<img width="16384" height="9374" alt="bp-denosier" src="https://github.com/user-attachments/assets/3aaaa05e-1bd5-40e2-bd17-3ede679d2d27" />
 
 https://github.com/user-attachments/assets/27c21378-e2b3-4d98-a7e8-210aa773d3df
 
